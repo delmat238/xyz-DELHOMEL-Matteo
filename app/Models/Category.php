@@ -11,11 +11,6 @@ class Category extends Model
 {
     use HasFactory;
 
-    public function create(Request $request): \Illuminate\Http\JsonResponse
-    {
-
-    }
-
     public function tracks(): HasMany
     {
         return $this->hasMany(Track::class);
