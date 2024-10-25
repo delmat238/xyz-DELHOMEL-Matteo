@@ -1,4 +1,4 @@
-# XYZ
+# XYZ Mattéo DELHOMEL
 
 <img src="docs/screenshots/home.png" alt="Page d'accueil" />
 
